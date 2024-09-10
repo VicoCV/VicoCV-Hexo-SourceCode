@@ -1,2 +1,5 @@
-# VicoCV-Hexo-SourceCode
-简历博客的Hexo源码
+# resume-docs
+
+https://resume.js.org
+
+https://resume-docs.vercel.app
